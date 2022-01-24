@@ -1,0 +1,18 @@
+{
+    "db": {
+        "host": "localhost",
+        "port": 27017,
+        "database": "colibri-dc"
+    },
+
+    "bot": {
+        "TG_TOKEN": "2096424684:AAGr6x7-CDIEd9XFEaQdDIzS8piGRVPKmXk",
+        "CHANNEL_ID": "-1001579708821"
+    },
+
+    "WHITELIST_DOMAINS":"http://localhost:3000,http://localhost:3010,http://localhost:4200",
+    "PORT": 3010,
+    "MODE": "development",
+    "TOKEN_KEY": "fdsg8asdf4sadfv",
+    "SECRET_KEY": "colibri-secret-key-1sf45sdv"
+}
